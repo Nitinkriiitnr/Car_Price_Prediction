@@ -8,7 +8,6 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 joblib==1.0.1
 jsonify==0.5
-mkl-service==2.4.0
 numpy==1.21.1
 pandas==1.2.5
 python-dateutil==2.8.2
