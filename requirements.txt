@@ -20,4 +20,4 @@ sklearn==0.0
 threadpoolctl==2.2.0
 urllib3==1.26.6
 Werkzeug==2.0.1
-wincertstore==0.2l
+wincertstore==0.2
