@@ -8,8 +8,6 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 joblib==1.0.1
 jsonify==0.5
-mkl-random==1.2.2
-
 mkl-service==2.4.0
 numpy==1.21.1
 pandas==1.2.5
